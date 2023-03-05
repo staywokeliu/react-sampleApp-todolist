@@ -5,9 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 準備作業
 
 ### fontawesomeのcdnの利用
-fontawesomeアカウント作成 [https://fontawesome.com/icons](https://fontawesome.com/icons)
-・public/index.htmlにcdnを導入する
-・下記リンクから、allのtagを含みcopyし、headタグに追加
+- fontawesomeアカウント作成 [https://fontawesome.com/icons](https://fontawesome.com/icons)
+
+- public/index.htmlにcdnを導入する
+
+- 下記リンクから、allのtagを含みcopyし、headタグに追加
 
 [https://cdnjs.com/libraries/font-awesome](https://cdnjs.com/libraries/font-awesome)
 
